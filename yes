@@ -721,7 +721,11 @@ if game.PlaceId == 2788229376 then
                             end
 
                         end
-
+                        
+                        if finalMsg == getgenv().prefix .. "antiafk" then
+                            humanoid.Health = 0
+                        end
+                        
                         if finalMsg == getgenv().prefix .. "advert" then
                             
 
