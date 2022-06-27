@@ -2392,7 +2392,7 @@ if game.PlaceId == 2788229376 then
             TextLabel.BorderSizePixel = 0
             TextLabel.Position = UDim2.new(0.379002213, 0, 0.0237247907, 0)
             TextLabel.Size = UDim2.new(0, 325, 0, 54)
-            TextLabel.Font = Enum.Font.Code
+            TextLabel.Font = Enum.Font.Gotham
             TextLabel.Text = "Agnar's Controll v1"
             TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel.TextScaled = true
@@ -2403,7 +2403,7 @@ if game.PlaceId == 2788229376 then
             TextButton.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
             TextButton.Position = UDim2.new(0.161833167, 0, 0.12319342, 0)
             TextButton.Size = UDim2.new(0, 274, 0, 72)
-            TextButton.Font = Enum.Font.Code
+            TextButton.Font = Enum.Font.GothamBlack
             TextButton.Text = " Copy Discord "
             TextButton.TextColor3 = Color3.fromRGB(220, 220, 220)
             TextButton.TextScaled = true
@@ -2416,7 +2416,7 @@ if game.PlaceId == 2788229376 then
             TextButton_2.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
             TextButton_2.Position = UDim2.new(0.397871882, 0, 0.12319342, 0)
             TextButton_2.Size = UDim2.new(0, 274, 0, 72)
-            TextButton_2.Font = Enum.Font.Code
+            TextButton_2.Font = Enum.Font.GothamBlack
             TextButton_2.Text = "  Copy Group  "
             TextButton_2.TextColor3 = Color3.fromRGB(220, 220, 220)
             TextButton_2.TextScaled = true
@@ -2429,7 +2429,7 @@ if game.PlaceId == 2788229376 then
             TextButton_3.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
             TextButton_3.Position = UDim2.new(0.633166015, 0, 0.12319342, 0)
             TextButton_3.Size = UDim2.new(0, 274, 0, 72)
-            TextButton_3.Font = Enum.Font.Code
+            TextButton_3.Font = Enum.Font.GothamBlack
             TextButton_3.Text = "  Leave Game  "
             TextButton_3.TextColor3 = Color3.fromRGB(220, 220, 220)
             TextButton_3.TextScaled = true
@@ -2444,7 +2444,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_2.BorderSizePixel = 0
             TextLabel_2.Position = UDim2.new(0.378997803, 0, 0.869513631, 0)
             TextLabel_2.Size = UDim2.new(0, 325, 0, 54)
-            TextLabel_2.Font = Enum.Font.Code
+            TextLabel_2.Font = Enum.Font.Gotham
             TextLabel_2.Text = "Version 1"
             TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_2.TextScaled = true
@@ -2457,7 +2457,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_3.BorderSizePixel = 0
             TextLabel_3.Position = UDim2.new(0.161833152, 0, 0.290628701, 0)
             TextLabel_3.Size = UDim2.new(0, 907, 0, 54)
-            TextLabel_3.Font = Enum.Font.Code
+            TextLabel_3.Font = Enum.Font.GothamBlack
             TextLabel_3.Text = "Name: HOLDERRR"
             TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_3.TextSize = 49.000
@@ -2470,7 +2470,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_4.BorderSizePixel = 0
             TextLabel_4.Position = UDim2.new(0.161833152, 0, 0.371293008, 0)
             TextLabel_4.Size = UDim2.new(0, 907, 0, 54)
-            TextLabel_4.Font = Enum.Font.Code
+            TextLabel_4.Font = Enum.Font.GothamBlack
             TextLabel_4.Text = "Money: HOLDER"
             TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_4.TextSize = 49.000
