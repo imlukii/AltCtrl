@@ -7,6 +7,10 @@ if game.PlaceId == 2788229376 then
         vu:Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
     end)
 
+if getgenv().CrashersIDs then
+    v.Character:FindFirstWhichIsA('Humanoid').DisplayName = ('[⭐]'..v.DisplayName)
+    end
+
     getgenv().isDropping = false
     local speed = 50
     local c
